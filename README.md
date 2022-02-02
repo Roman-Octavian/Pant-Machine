@@ -8,6 +8,8 @@
 3. [**Use Case Diagram**](diagrams/Use%20Case%20Diagram.png)
 4. [**SSD 1**](diagrams/SSD1.png)
 5. [**SSD 2**](diagrams/SSD2.png)
+6. [**Sequence Diagram 1**](diagrams/Sequence%20Diagram%201.png)
+7. [**Sequence Diagram 2**](diagrams/Sequence%20Diagram%202.png)
 ### 2. Classes
 1. [**Main**](src/Main.java)
 2. [**UI**](src/UI.java)
